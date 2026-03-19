@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "青色コントラスト",
   "base_artist": "ヒバナ",
-  "createdAt": "2026-02-21T06:20:53.832288Z",
+  "createdAt": "2026-03-19T02:33:40.689555Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "ヒバナ",
       "has_synced": false,
       "path": "select/pl_01_青色コントラスト_ヒバナ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "青色コントラスト",
+      "artist": "ヒバナ",
+      "has_synced": false,
+      "path": "select/localdb_01_青色コントラスト_ヒバナ.txt",
+      "repo_name": "QZUIXQn2Dtc"
     }
   ]
 }
